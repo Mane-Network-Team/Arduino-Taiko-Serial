@@ -15,6 +15,8 @@ If you are using MAC OS, you need to reference how to simulate the keyboard via 
 
 **Application**
 
+![Main UI](README.assets/1.png)
+
 - Main Program : Using **C#** depend on **.Net Framework 4.7.2** Compile successfully in **visual studio 2019**. Available in [releases](https://github.com/Mane-Network-Team/Arduino-Taiko-Serial/releases).
 
 **Arduino**
