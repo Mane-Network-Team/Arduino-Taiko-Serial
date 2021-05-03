@@ -1,0 +1,43 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Mane_Taiko"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    
+    <s:String x:Key="UI_TITLE">一起来玩太鼓把！</s:String>
+
+    <s:String x:Key="Mane.Connect.Title">连接设备</s:String>
+    <s:String x:Key="Mane.Connect.Subtitle">现在，让我们连接到您的设备吧！</s:String>
+    <s:String x:Key="Mane.Connect.COM">串口 :</s:String>
+    <s:String x:Key="Mane.Connect.Port">速度 :</s:String>
+    <s:String x:Key="Mane.Connect.Connect">走起！</s:String>
+
+    <s:String x:Key="Mane.RST.Title">尝试按下 RST 按钮吧！</s:String>
+    <s:String x:Key="Mane.RST.Subtitle">尝试在芯片上按下 RST 按钮来测试连接性吧 ... </s:String>
+    <s:String x:Key="Mane.RST.Cancel">取消</s:String>
+
+    <s:String x:Key="Mane.Test.Title">它好像要成功惹！</s:String>
+    <s:String x:Key="Mane.Test.Subitle">尝试按下芯片上的四个按钮吧！</s:String>
+    <s:String x:Key="Mane.Test.Skip">跳过</s:String>
+
+    <s:String x:Key="Mane.Setting.Title">嗯？怎么了 (・∀・)?</s:String>
+    <s:String x:Key="Mane.Setting.Key">按键设定</s:String>
+    <s:String x:Key="Mane.Setting.Key.Apply">应用</s:String>
+
+    <s:String x:Key="Mane.Good">棒棒的！！</s:String>
+    
+    <s:String x:Key="Mane.Error.Title">芜湖，连接不知怎的就断开了！</s:String>
+    <s:String x:Key="Mane.Error.body">与芯片的连接不知道因为什么就断开了，你可能需要找出它断开的原因，有可能是接触不良的问题又或者是一些不可描述的因素，反正就是断了，我也不知道为什么。</s:String>
+    <s:String x:Key="Mane.Error.reset">重设</s:String>
+
+    <s:String x:Key="Mane.Main.Title">成功了！</s:String>
+    <s:String x:Key="Mane.Main.Subitle">现在你可以打开游戏尽情的玩耍了！！</s:String>
+    <s:String x:Key="Mane.Main.SettingBtn">设定</s:String>
+
+    <s:String x:Key="Mane.Setting.About">关于我</s:String>
+    <s:String x:Key="Mane.Setting.About.Note">我和PT聊到如何把太古的信号输入到电脑的时候，PT说可以用蓝牙模拟键盘来和电脑通信，然后我说也可以用串口来通信，但是老一点的电脑没有蓝牙，PT说都2021年了还有什么电脑没有蓝牙，于是我就说要不我们做两个版本，一个用蓝牙一个用串口通信，顺便比较一下这两个差异，PT说好。（协议达成） 所以我 Mane 就是负责串口通信的部分，因为要软件支持，于是我就随手写了这个软件作为演示。</s:String>
+    <s:String x:Key="Mane.Setting.About.NOSELL">** 不允许作商业用途！</s:String>
+    <s:String x:Key="Mane.Setting.About.Blog">博客</s:String>
+    <s:String x:Key="Mane.Setting.About.Http">官网</s:String>
+
+
+</ResourceDictionary>

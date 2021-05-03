@@ -1,0 +1,17 @@
+﻿<Page x:Class="Mane_Taiko.P_Welcome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mane_Taiko" Loaded="Page_Loaded"
+      mc:Ignorable="d" Background="{DynamicResource MahApps.Brushes.WindowTitle}"
+      d:DesignHeight="250" d:DesignWidth="450" 
+      >
+
+    <Grid Width="450" Height="250">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="{DynamicResource UI_TITLE}" FontSize="40" Foreground="White"></Label>
+            <Label  Content="Loading ..." HorizontalAlignment="Right" Foreground="White"></Label>
+        </StackPanel>
+    </Grid>
+</Page>

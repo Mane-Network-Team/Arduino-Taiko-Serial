@@ -1,0 +1,33 @@
+﻿<Page x:Class="Mane_Taiko.P_Setting"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mane_Taiko"
+      xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      mc:Ignorable="d" Background="{DynamicResource MahApps.Brushes.WindowTitle}"
+      d:DesignHeight="250" d:DesignWidth="450"
+      Title="P_Setting">
+
+    <Grid Width="450" Height="250">
+        <StackPanel Margin="0 0 0 0">
+            <StackPanel Orientation="Horizontal">
+                <Button Click="Button_Click_2" Margin="15 0 0 0" Width="28" Height="28" BorderThickness="0" Style="{DynamicResource MahApps.Styles.Button.Circle}" >
+                    <iconPacks:PackIconMaterialLight Foreground="White" Kind="ArrowLeftCircle" Width="25" Height="25" />
+                </Button>
+                <Label Content="{DynamicResource Mane.Setting.Title}" FontSize="30" Foreground="White"></Label>
+            </StackPanel>
+            <Grid Width="400">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button Click="Button_Click" Content="{DynamicResource Mane.Setting.Key}" BorderThickness="0" Grid.Column="0" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"></Button>
+                <Button Click="Button_Click_1" Content="{DynamicResource Mane.Setting.About}" BorderThickness="0" Grid.Column="2" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"></Button>
+            </Grid>
+            <Frame x:Name="SettingFrame" Margin="0 5 0 0" Source="S_Key.xaml" BorderThickness="0" NavigationUIVisibility="Hidden" Background="AntiqueWhite" Width="400" Height="160" >
+                
+            </Frame>
+        </StackPanel>
+    </Grid>
+</Page>

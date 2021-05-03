@@ -1,0 +1,48 @@
+﻿<Page x:Class="Mane_Taiko.P_Main"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mane_Taiko"
+      mc:Ignorable="d" Background="{DynamicResource MahApps.Brushes.WindowTitle}"
+      d:DesignHeight="250" d:DesignWidth="450" Loaded="Page_Loaded" Unloaded="Page_Unloaded"
+      Title="P_Main">
+
+    <Grid Width="450" Height="250">
+        <StackPanel Margin="10 0 0 0">
+            <Label Content="{DynamicResource Mane.Main.Title}" FontSize="30" Foreground="White"></Label>
+            <Label Margin="0 -5 0 0" Content="{DynamicResource Mane.Main.Subitle}" HorizontalAlignment="Left" FontSize="14" Foreground="WhiteSmoke"></Label>
+            <StackPanel Orientation="Horizontal">
+                <Grid Margin="10 10 0 0" Width="150">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="25"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label Foreground="White" Content="A :" Grid.Row="0" Grid.Column="0"></Label>
+                    <Label Foreground="White" x:Name="A_Label" Content="0" Grid.Row="0" Grid.Column="1" ></Label>
+                    <Label Foreground="White" Content="B :" Grid.Row="1" Grid.Column="0"></Label>
+                    <Label Foreground="White" x:Name="B_Label" Content="0" Grid.Row="1" Grid.Column="1"></Label>
+                    <Label Foreground="White" Content="C :" Grid.Row="2" Grid.Column="0"></Label>
+                    <Label Foreground="White" x:Name="C_Label" Content="0" Grid.Row="2" Grid.Column="1"></Label>
+                    <Label Foreground="White" Content="D :" Grid.Row="3" Grid.Column="0"></Label>
+                    <Label Foreground="White" x:Name="D_Label" Content="0" Grid.Row="3" Grid.Column="1"></Label>
+                    
+                </Grid>
+                <StackPanel Margin="20 10 0 0"  Width="200">
+                    <Label Margin="5 0 0 0" x:Name="ConnectLabel" Foreground="White" Content=""></Label>
+                    <Button x:Name="SettingBTN" Click="SettingBTN_Click" Margin="5 5 5 0" BorderBrush="White" BorderThickness="1" Background="{DynamicResource MahApps.Brushes.WindowTitle}" 
+                     Content="{DynamicResource Mane.Main.SettingBtn}" Width="170" Height="30" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"></Button>
+                    <Button x:Name="RST_BTN" Click="RST_BTN_Click" Margin="5 5 5 0" BorderBrush="White" BorderThickness="1" Background="{DynamicResource MahApps.Brushes.WindowTitle}" 
+                     Content="{DynamicResource Mane.Error.reset}" Width="170" Height="30" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"></Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

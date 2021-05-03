@@ -1,0 +1,23 @@
+﻿<mah:MetroWindow x:Class="Mane_Taiko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mane_Taiko" Background="{DynamicResource MahApps.Brushes.WindowTitle}"
+        mc:Ignorable="d" ResizeMode="CanMinimize" Loaded="MetroWindow_Loaded" Closing="MetroWindow_Closing"
+        Title="{DynamicResource UI_TITLE}" Height="300" Width="450" Icon="unnamed.gif">
+
+    <!-- Right Button -->
+    <mah:MetroWindow.RightWindowCommands>
+        <mah:WindowCommands>
+            <Button x:Name="UI_Lang_BTN" Click="Change_Language_Click" Content="ZH"></Button>
+        </mah:WindowCommands>
+    </mah:MetroWindow.RightWindowCommands>
+
+    <StackPanel>
+        <Frame Margin="0 0 0 0" NavigationUIVisibility="Hidden" Height="243" x:Name="UI_MainFrame" Navigating="UI_MainFrame_Navigating" ></Frame>
+        <Label Content="Code by Mane." HorizontalAlignment="Left" Foreground="WhiteSmoke"></Label>
+    </StackPanel>
+</mah:MetroWindow>

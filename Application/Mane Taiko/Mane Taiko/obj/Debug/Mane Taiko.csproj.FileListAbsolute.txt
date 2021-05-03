@@ -1,0 +1,54 @@
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Mane Taiko.exe.config
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Mane Taiko.exe
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Mane Taiko.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\MainWindow.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\App.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko_MarkupCompile.cache
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko_MarkupCompile.lref
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\MainWindow.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.g.resources
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane_Taiko.Properties.Resources.resources
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.csproj.GenerateResource.cache
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.exe
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\ControlzEx.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\ControlzEx.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\ControlzEx.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\App.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.csproj.CopyComplete
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane_EN.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane_ZH.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Welcome.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Welcome.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_ConnectDevices.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_ConnectDevices.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_RST.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_RST.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_TestKey.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_TestKey.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Good.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Good.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Error.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Error.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Main.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Main.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Setting.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\P_Setting.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\S_About.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\S_Key.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\S_About.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\S_Key.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Debug\Mane Taiko.csprojAssemblyReference.cache

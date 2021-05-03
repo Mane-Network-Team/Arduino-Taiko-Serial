@@ -1,0 +1,54 @@
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Mane Taiko.exe.config
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Mane Taiko.exe
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Mane Taiko.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\ControlzEx.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\ControlzEx.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\ControlzEx.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\de\MahApps.Metro.resources.dll
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csprojAssemblyReference.cache
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\MainWindow.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_ConnectDevices.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Error.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Good.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Main.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_RST.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Setting.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_TestKey.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Welcome.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\S_About.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\S_Key.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\App.g.cs
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko_MarkupCompile.cache
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko_MarkupCompile.lref
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\App.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\MainWindow.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane_ZH.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane_EN.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_ConnectDevices.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Error.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Good.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Main.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_RST.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Setting.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_TestKey.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Welcome.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\S_About.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\S_Key.baml
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.g.resources
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane_Taiko.Properties.Resources.resources
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csproj.GenerateResource.cache
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csproj.CopyComplete
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.exe
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.pdb

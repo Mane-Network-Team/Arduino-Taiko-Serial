@@ -1,0 +1,44 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Mane_Taiko"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+
+    <s:String x:Key="UI_TITLE">Let's Play Taiko</s:String>
+
+    <s:String x:Key="Mane.Connect.Title">Connect Devices</s:String>
+    <s:String x:Key="Mane.Connect.Subtitle">Now, select and connect your devices.</s:String>
+    <s:String x:Key="Mane.Connect.COM">From : </s:String>
+    <s:String x:Key="Mane.Connect.Port">Speed :</s:String>
+    <s:String x:Key="Mane.Connect.Connect">Go !</s:String>
+
+    <s:String x:Key="Mane.RST.Title">Press the RST on chip ...</s:String>
+    <s:String x:Key="Mane.RST.Subtitle">Press the RST button on chip to test the connection ...</s:String>
+    <s:String x:Key="Mane.RST.Cancel">Cancel</s:String>
+
+    <s:String x:Key="Mane.Test.Title">Almost done !</s:String>
+    <s:String x:Key="Mane.Test.Subitle">Try to pressing 4 buttons on the chip :)</s:String>
+    <s:String x:Key="Mane.Test.Skip">Skip</s:String>
+
+    <s:String x:Key="Mane.Setting.Title">What Happen (・・?)</s:String>
+    <s:String x:Key="Mane.Setting.Key">Key setting</s:String>
+    <s:String x:Key="Mane.Setting.Key.Apply">Apply</s:String>
+
+    <s:String x:Key="Mane.Good">Good !!!</s:String>
+
+    <s:String x:Key="Mane.Error.Title">Your connection was broken.</s:String>
+    <s:String x:Key="Mane.Error.body">Your connection was broken for unknown reasons. You might need to find out why it was broken, And you need to restart the program and setup again.</s:String>
+    <s:String x:Key="Mane.Error.reset">Reset</s:String>
+
+    <s:String x:Key="Mane.Main.Title">It done :)</s:String>
+    <s:String x:Key="Mane.Main.Subitle">You can open the game, and test the key.</s:String>
+    <s:String x:Key="Mane.Main.SettingBtn">Setting</s:String>
+
+
+    <s:String x:Key="Mane.Setting.About">About Me</s:String>
+    <s:String x:Key="Mane.Setting.About.Note">When I chat with PT research how to input the signal to the computer, PT said it can use bluetooth to simulation the keyboard, and I said We can use the serial port to communicate, but older computers it doesn't have bluetooth, but PT said Now in 2021 what computer doesn't have bluetooth? For demonstration purposes, we did two versions. Cause serial port communication, It need software to convert the key, casually I wrote this software as a demonstration.</s:String>
+    <s:String x:Key="Mane.Setting.About.NOSELL">** No business allowed !</s:String>
+    <s:String x:Key="Mane.Setting.About.Blog">Blog</s:String>
+    <s:String x:Key="Mane.Setting.About.Http">Website</s:String>
+
+
+</ResourceDictionary>
