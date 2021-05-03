@@ -36,7 +36,7 @@ For simulate the keyboard, I found that using Win32 API **DO NOT WORK** on osu!
 public static extern void keybd_event(Keys bVk, byte bScan, uint dwFlags, uint dwExtraInfo);
 ```
 
-So I change the code using `System.Windows.Forms.SendKeys` to simulation the keyboard which is [SendKeys.SendWait(String) Method](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.sendkeys.sendwait?view=netframework-4.7.2). 
+So I change the code using `System.Windows.Forms.SendKeys` to simulation the keyboard which is [SendKeys.SendWait(String)](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.sendkeys.sendwait?view=netframework-4.7.2) Method. 
 
 ## Depend
 
