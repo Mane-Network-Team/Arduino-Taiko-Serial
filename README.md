@@ -21,6 +21,10 @@ If you are using MAC OS, you need to reference how to simulate the keyboard via 
 
 - Test : random send 4 key to serial port.
 
+## Test
+
+Flash the **test.ino** to chip, and open the main program. Be sure that **NO DEBUG OUTPUT** for serial port.
+
 ## Note
 
 For simulate the keyboard, I found that using Win32 API **DO NOT WORK** on osu!
