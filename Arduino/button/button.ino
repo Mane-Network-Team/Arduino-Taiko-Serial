@@ -14,15 +14,15 @@ void setup(){
     // Send key for Application
     Serial.println("MANE_TAIKO_DEMO");
 
-    buttonA.setDebounceTime(50);
-    buttonB.setDebounceTime(50);
-    buttonC.setDebounceTime(50);
-    buttonD.setDebounceTime(50);
+    buttonA.setDebounceTime(10);
+    buttonB.setDebounceTime(10);
+    buttonC.setDebounceTime(10);
+    buttonD.setDebounceTime(10);
 
-    buttonA.setTapHandler(click);
-    buttonB.setTapHandler(click);
-    buttonC.setTapHandler(click);
-    buttonD.setTapHandler(click);
+    buttonA.setPressedHandler(click);
+    buttonB.setPressedHandler(click);
+    buttonC.setPressedHandler(click);
+    buttonD.setPressedHandler(click);
 }
 
 void loop(){
