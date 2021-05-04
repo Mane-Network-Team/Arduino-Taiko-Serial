@@ -19,6 +19,8 @@ void setup(){
     buttonC.setDebounceTime(10);
     buttonD.setDebounceTime(10);
 
+
+
     buttonA.setPressedHandler(click);
     buttonB.setPressedHandler(click);
     buttonC.setPressedHandler(click);
