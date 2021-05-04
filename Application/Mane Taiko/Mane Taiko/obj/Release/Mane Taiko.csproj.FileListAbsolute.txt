@@ -17,7 +17,6 @@ C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\MahApps.Metro.
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Microsoft.Xaml.Behaviors.pdb
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\Microsoft.Xaml.Behaviors.xml
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\bin\Release\de\MahApps.Metro.resources.dll
-C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csprojAssemblyReference.cache
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\MainWindow.g.cs
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_ConnectDevices.g.cs
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\P_Error.g.cs
@@ -52,3 +51,4 @@ C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csp
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csproj.CopyComplete
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.exe
 C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.pdb
+C:\Users\Mane's PC\source\repos\Mane Taiko\Mane Taiko\obj\Release\Mane Taiko.csprojAssemblyReference.cache

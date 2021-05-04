@@ -80,7 +80,7 @@ namespace Mane_Taiko
         {
             try
             {
-                if (ManeV.USB.serial_port.ReadLine().Trim() == "MANE_TAIKO_DEMO")
+                if (ManeV.USB.serial_port.ReadLine().Trim().IndexOf("MANE_TAIKO_DEMO")!=-1)
                 {
                     check_thread.Abort();
                     ManeV.USB.serial_port.DiscardInBuffer();

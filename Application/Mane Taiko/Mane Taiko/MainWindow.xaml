@@ -7,6 +7,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mane_Taiko" Background="{DynamicResource MahApps.Brushes.WindowTitle}"
         mc:Ignorable="d" ResizeMode="CanMinimize" Loaded="MetroWindow_Loaded" Closing="MetroWindow_Closing"
+        GlowBrush="{DynamicResource MahApps.Brushes.Accent}"
         Title="{DynamicResource UI_TITLE}" Height="300" Width="450" Icon="unnamed.gif">
 
     <!-- Right Button -->
@@ -18,6 +19,13 @@
 
     <StackPanel>
         <Frame Margin="0 0 0 0" NavigationUIVisibility="Hidden" Height="243" x:Name="UI_MainFrame" Navigating="UI_MainFrame_Navigating" ></Frame>
-        <Label Content="Code by Mane." HorizontalAlignment="Left" Foreground="WhiteSmoke"></Label>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="Code by Mane." HorizontalAlignment="Left" Foreground="WhiteSmoke"></Label>
+            <Label Grid.Column="1" HorizontalAlignment="Right" Content="Version 1.1" Foreground="WhiteSmoke"/>
+        </Grid>
     </StackPanel>
 </mah:MetroWindow>
